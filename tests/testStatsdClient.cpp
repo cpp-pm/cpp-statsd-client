@@ -1,4 +1,4 @@
-#include <StatsdClient.hpp>
+#include <cpp-statsd-client/StatsdClient.hpp>
 #include <cassert>
 
 using namespace Statsd;
